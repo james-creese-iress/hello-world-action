@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-action",
+  "version": "1.0.0",
+  "description": "Hello World GitHub Action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-creese-iress/hello-world-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-creese-iress/hello-world-action/issues"
+  },
+  "homepage": "https://github.com/james-creese-iress/hello-world-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
