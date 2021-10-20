@@ -1,5 +1,5 @@
-import {expect, test} from '@jest/globals'
+import {expect, test} from '@jest/globals';
 
 test('random test', () => {
-    expect(true).toBeTruthy();
+  expect(true).toBeTruthy();
 });
